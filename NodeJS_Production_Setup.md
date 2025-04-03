@@ -1,7 +1,3 @@
-Below is a revised, professional version of the deployment guide with corrected numbering and clear instructions.
-
----
-
 # Deploying a Node.js Application with Nginx and PM2
 
 This guide outlines the steps required to deploy your Node.js application on an Ubuntu/Debian server using Nginx as a reverse proxy, nvm for Node.js version management, and PM2 for process management. It also covers setting up SSL with Let’s Encrypt and configuring the UFW firewall.
