@@ -4,7 +4,7 @@ PegaLiteNotes is a collection of **technical guides, deployment strategies, and 
 
 ## 📌 **Included Guides**  
 
-### 🔹 **Secure Node.js Deployment**  
+### 🔹 [**Secure Node.js Deployment**](https://github.com/PegaLiteStudio/PegaliteNotes/blob/main/NodeJS_Production_Setup.md)  
 A production-ready setup for **Node.js applications** using **Nginx, PM2, and Let's Encrypt** with a focus on **security, automation, and scalability**.  
 
 ### 🔹 **More Guides Coming Soon!**  
