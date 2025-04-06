@@ -67,8 +67,9 @@ sudo mkdir -p /var/www/web/
   ```bash
   scp web.zip root@<YOUR_VPS_IP>:/var/www/web
   ```
-  Unzip the file
+  Then:
   ```bash
+  cd /var/www/web
   apt install unzip
   unzip web.zip
   ```
@@ -291,3 +292,6 @@ sudo ufw enable
 Your Node.js application should now be running securely behind Nginx on your specified domain. Should you encounter any issues, verify the logs for both PM2 and Nginx and adjust configurations as necessary.
 
 Happy deploying!
+
+---
+Made with ❤️ by Sahil Hossain
