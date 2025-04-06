@@ -67,7 +67,11 @@ sudo mkdir -p /var/www/web/
   ```bash
   scp web.zip root@<YOUR_VPS_IP>:/var/www/web
   ```
-
+  Unzip the file
+  ```bash
+  apt install unzip
+  unzip web.zip
+  ```
 - **If cloning from a repository:**
 
   ```bash
